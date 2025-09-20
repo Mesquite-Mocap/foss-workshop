@@ -1,5 +1,5 @@
-# T-Watch Hello World
-<img src='imgs/header.jpg'>
+# foss-workshop
+
 
 ## Hardware
 <img src='imgs/pinout.png'>
