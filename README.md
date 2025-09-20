@@ -4,8 +4,7 @@
 ## Hardware
 <img src='imgs/pinout.png'>
 <img src='imgs/devPinout.png'>
-<img src='imgs/peri.png'>
-<img src='imgs/watchPinout.png'>
+
 
 
 ## Usage
